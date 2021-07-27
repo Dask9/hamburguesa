@@ -1,0 +1,741 @@
+BODY {
+  background:#8C4966;
+}
+
+
+
+
+
+
+#container {
+  width:70%;
+  height: 500px;
+  background-size: 100% 100%;
+   margin-top: 20PX;
+   margin-left:15%;
+}
+
+
+#container2 {
+  width: 80%;
+  height:500px;
+    background-size: 100% 100%;
+  margin-left: 10%;
+  margin-top:40px;
+}
+
+#titulo {
+  width: 100%;
+  height: 69px;
+  border: 1px solid transparent;
+  margin-top: 110px;
+
+}
+
+
+#titulooo {
+  font-family:"IMPACT";
+  font-weight: normal;
+  font-size:100px;
+  line-height: 1px;
+  color: white;
+  text-align: center;
+  letter-spacing: normal;
+}
+
+#subtitulo {
+  width: 97%;
+  height: 59px;
+  border: 1px solid transparent;
+  margin-top: 20px;
+  margin-left: 2%;
+
+}
+
+#subti {
+  font-family:"arial";
+  font-weight: normal;
+  font-size:30px;
+  color: #FFC30F;
+  text-align: center;
+  letter-spacing: normal;
+  line-height:29px;
+}
+
+
+
+
+#baner_terror {
+
+width:100%;
+height:163px;
+
+background-image: url(../img/baner1.jpg);
+background-size: 100%;
+
+  margin-top: 100px;
+}
+
+
+#div_fondogris {
+ width: 100%;
+ height: 1914px;
+ border: 1px solid transparent;
+ background-color: #212121;
+
+ background-size: 100% 100%;
+ background-image: url(../img/jig.jpg);
+
+}
+
+.div_peli1 {
+
+  width: 340px;
+  height: 480px;
+  border: 1px solid transparent;
+  background-image: url(../img/1.png);
+    background-size: 100% 100%;
+  margin-top: 50px;
+ margin-left: 60px;
+ float :left;
+ }
+
+
+    .div_peli1:hover {
+        background-image: url(../img/ha.jpg);
+
+
+
+     }
+
+
+.div_peli2 {
+
+       width: 340px;
+       height: 480px;
+       border: 1px solid transparent;
+       background-image: url(../img/gg2.jpg);
+         background-size: 100% 100%;
+       margin-top: 50px;
+       margin-left: 50px;
+      float :left;
+      }
+
+
+  .div_peli2:hover {
+ background-image: url(../img/get.jpg);
+
+    }
+
+    .div_peli2 {
+
+           width: 340px;
+           height: 480px;
+           border: 1px solid transparent;
+           background-image: url(../img/gg2.jpg);
+             background-size: 100% 100%;
+           margin-top: 50px;
+           margin-left: 76px;
+          float :left;
+          }
+
+
+      .div_peli2:hover {
+     background-image: url(../img/get.jpg);
+
+        }
+
+        .div_peli3 {
+
+               width: 340px;
+               height: 480px;
+               border: 1px solid transparent;
+               background-image: url(../img/haunt.jpg);
+                 background-size: 100% 100%;
+               margin-top: 50px;
+               margin-left: 50px;
+               margin-right: 50px;
+              float :right;
+              }
+
+
+          .div_peli3:hover {
+         background-image: url(../img/lacasa.jpg);
+
+            }
+
+            #div_botondescarga1 {
+          width: 230px;
+              height: 65px;
+              border: 1px solid transparent;
+              margin-top: 17px;
+              margin-left: 120px;
+              float:left;
+            }
+
+
+            #botondescarga1{
+              font-family:"arial";
+              font-weight: normal;
+              color: white;
+              background-color: #c26468;
+              font-size:21px;
+              text-align: center;
+              border-radius: 6px;
+              height: 58px;
+              width: 211px;
+              border: none;
+            }
+
+            #div_botondescarga2 {
+              width: 230px;
+              height: 65px;
+              border: 1px solid transparent;
+              margin-top: 17px;
+              margin-left: 190px;
+              float:left;
+            }
+
+
+            #botondescarga2{
+              font-family:"arial";
+              font-weight: normal;
+              color: white;
+              background-color: #c26468;
+              font-size:21px;
+              text-align: center;
+              border-radius: 6px;
+              height: 58px;
+              width: 211px;
+              border: none;
+            }
+
+            #div_botondescarga3 {
+              width: 230px;
+              height: 65px;
+              border: 1px solid transparent;
+              margin-top: 17px;
+              margin-left: 190px;
+              float:left;
+            }
+
+
+            #botondescarga3{
+              font-family:"arial";
+              font-weight: normal;
+              color: white;
+              background-color: #c26468;
+              font-size:21px;
+              text-align: center;
+              border-radius: 6px;
+              height: 58px;
+              width: 211px;
+              border: none;
+            }
+
+            #div_botondescarga4 {
+          width: 230px;
+              height: 65px;
+              border: 1px solid transparent;
+              margin-top: 17px;
+              margin-left: 120px;
+              float:left;
+            }
+
+
+            #botondescarga4{
+              font-family:"arial";
+              font-weight: normal;
+              color: white;
+              background-color: #c26468;
+              font-size:21px;
+              text-align: center;
+              border-radius: 6px;
+              height: 58px;
+              width: 211px;
+              border: none;
+            }
+
+            #div_botondescarga5 {
+              width: 230px;
+              height: 65px;
+              border: 1px solid transparent;
+              margin-top: 17px;
+              margin-left: 190px;
+              float:left;
+            }
+
+
+            #botondescarga5{
+              font-family:"arial";
+              font-weight: normal;
+              color: white;
+              background-color: #c26468;
+              font-size:21px;
+              text-align: center;
+              border-radius: 6px;
+              height: 58px;
+              width: 211px;
+              border: none;
+            }
+
+            #div_botondescarga6 {
+              width: 230px;
+              height: 65px;
+              border: 1px solid transparent;
+              margin-top: 17px;
+              margin-left: 190px;
+              float:left;
+            }
+
+
+            #botondescarga6{
+              font-family:"arial";
+              font-weight: normal;
+              color: white;
+              background-color: #c26468;
+              font-size:21px;
+              text-align: center;
+              border-radius: 6px;
+              height: 58px;
+              width: 211px;
+              border: none;
+            }
+
+
+                        #div_botondescarga7 {
+                      width: 230px;
+                          height: 65px;
+                          border: 1px solid transparent;
+                          margin-top: 17px;
+                          margin-left: 120px;
+                          float:left;
+                        }
+
+
+                        #botondescarga7{
+                          font-family:"arial";
+                          font-weight: normal;
+                          color: white;
+                          background-color: #c26468;
+                          font-size:21px;
+                          text-align: center;
+                          border-radius: 6px;
+                          height: 58px;
+                          width: 211px;
+                          border: none;
+                        }
+
+                        #div_botondescarga8 {
+                          width: 230px;
+                          height: 65px;
+                          border: 1px solid transparent;
+                          margin-top: 17px;
+                          margin-left: 190px;
+                          float:left;
+                        }
+
+
+                        #botondescarga8{
+                          font-family:"arial";
+                          font-weight: normal;
+                          color: white;
+                          background-color: #c26468;
+                          font-size:21px;
+                          text-align: center;
+                          border-radius: 6px;
+                          height: 58px;
+                          width: 211px;
+                          border: none;
+                        }
+
+                        #div_botondescarga9 {
+                          width: 230px;
+                          height: 65px;
+                          border: 1px solid transparent;
+                          margin-top: 17px;
+                          margin-left: 190px;
+                          float:left;
+                        }
+
+
+                        #botondescarga9{
+                          font-family:"arial";
+                          font-weight: normal;
+                          color: white;
+                          background-color: #c26468;
+                          font-size:21px;
+                          text-align: center;
+                          border-radius: 6px;
+                          height: 58px;
+                          width: 211px;
+                          border: none;
+                        }
+
+            .div_peli4 {
+
+                   width: 340px;
+                   height: 480px;
+                   border: 1px solid transparent;
+                   background-image: url(../img/ccc.jpg);
+                     background-size: 100% 100%;
+                   margin-top: 65px;
+                   margin-left: 60px;
+
+                  float : left;
+                  }
+
+
+              .div_peli4:hover {
+             background-image: url(../img/ch1.jpg);
+
+                }
+
+
+
+                .div_peli5 {
+
+                       width: 340px;
+                       height: 480px;
+                       border: 1px solid transparent;
+                       background-image: url(../img/hallowenkill.jpg);
+                         background-size: 100% 100%;
+                       margin-top: 65px;
+                         margin-left: 76px;
+
+                      float : left;
+                      }
+
+
+                  .div_peli5:hover {
+                 background-image: url(../img/hk.jpg);
+
+                    }
+
+
+                    .div_peli6 {
+
+                           width: 340px;
+                           height: 480px;
+                           border: 1px solid transparent;
+                           background-image: url(../img/texa.jpg);
+                             background-size: 100% 100%;
+                           margin-top: 65px;
+                           margin-left: 75px;
+
+                          float : left;
+                          }
+
+
+                      .div_peli6:hover {
+                     background-image: url(../img/tx.jpg);
+
+                        }
+
+
+
+
+                        .div_peli7 {
+
+                               width: 340px;
+                               height: 480px;
+                               border: 1px solid transparent;
+                               background-image: url(../img/exor.jpg);
+                                 background-size: 100% 100%;
+                               margin-top: 65px;
+                               margin-left: 60px;
+
+                              float : left;
+                              }
+
+
+                          .div_peli7:hover {
+                         background-image: url(../img/exo2.png);
+
+                            }
+
+                            .div_peli8 {
+
+                                   width: 340px;
+                                   height: 480px;
+                                   border: 1px solid transparent;
+                                   background-image: url(../img/grr.jpg);
+                                     background-size: 100% 100%;
+                                   margin-top: 65px;
+                                   margin-left: 76px;
+
+                                  float : left;
+                                  }
+
+
+                              .div_peli8:hover {
+                             background-image: url(../img/gret.jpg);
+
+                                }
+
+
+                                .div_peli9 {
+
+                                       width: 340px;
+                                       height: 480px;
+                                       border: 1px solid transparent;
+                                       background-image: url(../img/ddd.jpg);
+                                         background-size: 100% 100%;
+                                       margin-top: 65px;
+                                       margin-left: 76px;
+
+                                      float : left;
+                                      }
+
+
+                                  .div_peli9:hover {
+                                 background-image: url(../img/sss.jpg);
+
+                                    }
+
+            #div_registrate {
+              width: 300px;
+              height: 65px;
+              border: 1px solid transparent;
+              margin-top: 50px;
+              margin-left: 40%;
+            }
+
+
+            .botonregistrate{
+              font-family:"arial";
+              font-weight: normal;
+              color: white;
+              background-color: #5cb85c;
+              font-size:21px;
+              text-align: center;
+              border-radius: 6px;
+              height: 58px;
+              width: 211px;
+              border: none;
+            }
+
+            .botonregistrate:hover {
+              background: rgba(44,194,21,1);
+              background: -moz-linear-gradient(left, rgba(44,194,21,1) 0%, rgba(20,217,187,1) 98%, rgba(87,237,215,1) 100%);
+              background: -webkit-gradient(left top, right top, color-stop(0%, rgba(44,194,21,1)), color-stop(98%, rgba(20,217,187,1)), color-stop(100%, rgba(87,237,215,1)));
+              background: -webkit-linear-gradient(left, rgba(44,194,21,1) 0%, rgba(20,217,187,1) 98%, rgba(87,237,215,1) 100%);
+              background: -o-linear-gradient(left, rgba(44,194,21,1) 0%, rgba(20,217,187,1) 98%, rgba(87,237,215,1) 100%);
+              background: -ms-linear-gradient(left, rgba(44,194,21,1) 0%, rgba(20,217,187,1) 98%, rgba(87,237,215,1) 100%);
+              background: linear-gradient(to right, rgba(44,194,21,1) 0%, rgba(20,217,187,1) 98%, rgba(87,237,215,1) 100%);
+              filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2cc215', endColorstr='#57edd7', GradientType=1 );
+
+              }
+
+
+
+#baner_portada {
+
+width:100%;
+height:300px;
+
+background-color: SOLID TRANSPARENT ;
+
+  margin-top: 0px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.div_series {
+
+  width: 93%;
+  margin-top: 50px;
+ margin-left:60px;
+  border: 1px solid transparent;
+  background-color: #20B2AA ;
+
+ float :left;
+ }
+
+ .div_series:hover {
+   width: 93%;
+   margin-top: 50px;
+  margin-left:60px;
+  background-color:#0097A7   ;
+
+
+
+   }
+
+
+ #seriestitulo {
+   font-family:"impact";
+   font-weight: normal;
+   font-size:100px;
+   color: white;
+   text-align: center;
+   letter-spacing: normal;
+
+ }
+
+
+
+
+ #frase{
+   width:30%;
+   height: 250px;
+   background-size: 100% 100%;
+    margin-top: 20PX;
+    margin-left:15%;
+    background-color:red ;
+
+
+ }
+
+
+
+
+.fotorama{
+  margin-left:15px;
+
+
+}
+
+
+
+
+
+
+.contenedorfondoeljuegodelmiedo{
+  width:1248;
+  height: 702px;
+  padding-top: 80px;
+  background-size: 100% 100%;
+  background-image: url(../img/6667.jpg);
+
+
+
+
+
+}
+
+.contenedorseriesss{
+  width:758px;
+  height: 1600px;
+  padding-top: 500px;
+  background-size: 100% 100%;
+  background-image: url(../img/758.jpg);
+
+ margin-top:100px;
+
+
+
+}
+
+
+#div_botondescargajoker{
+  width: 230px;
+  height: 65px;
+  border: 1px solid transparent;
+  margin-top: 70px;
+  margin-left: 106px;
+
+}
+
+#botondescargajoker{
+  font-family:"arial";
+  font-weight: normal;
+  color: white;
+  background-color: black;
+  font-size:38px;
+  text-align: center;
+  border-radius: 6px;
+  height: 60px;
+  width: 270px;
+  border: none;
+
+
+
+}
+
+
+
+
+
+
+
+
+#divnombrejokerr {
+  width:510px;
+  height: 80px;
+  border: transparent;
+  margin-top:500px;
+  margin-right:  36px;
+  background-color: black;
+float: right;
+
+}
+
+#letranombrejoker {
+  font-family:"impact";
+  font-weight: normal;
+  font-size:110px;
+  color: #FFC30F;
+  text-align: center;
+  letter-spacing: normal;
+  line-height:29px;
+}
+
+
+
+
+#cineclasicor {
+  font-family:"impact";
+  font-weight: normal;
+  font-size:110px;
+  color: #FFC30F;
+  text-align: center;
+  letter-spacing: normal;
+  line-height:29px;
+}
+
+
+#div_cinedeculto {
+  width:100%;
+  height: 90px;
+  border: transparent;
+  margin-top:100px;
+  background-color: black;
+float: right;
+
+}
+
+#letracinedeculto{
+  font-family:"impact";
+  font-weight: normal;
+  font-size:80px;
+  color: #FFC30F;
+  text-align: center;
+  letter-spacing: normal;
+
+}
+
+
+
+
+#divultimo {
+  width:100%;
+  height: 700px;
+  border: transparent;
+  margin-top:2px;
+  margin-right:  36px;
+  background-color: black;
+  padding-left:300px ;
+  padding-top: 30px;
+
+
+}

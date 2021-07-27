@@ -1,0 +1,17 @@
+#capa_central {
+
+   width:70%;
+   height: 122px;
+   background-size: 100% 100%;
+   margin-top: 200px;
+   margin-left:216px;
+background-color:transparent;
+
+}
+
+.kwicks {
+  height: 100px;
+}
+.kwicks > li {
+  height: 100px;
+}
